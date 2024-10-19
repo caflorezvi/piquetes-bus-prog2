@@ -9,3 +9,14 @@ El precio total se calcula de la siguiente manera:
 - Bus VIP: Precio base: \$40000 + Tarifa por kilómetro: \$300 por kilómetro.
 
 Para organizar y estructurar el sistema de venta de tiquetes, la empresa ha decidido utilizar el patrón de diseño Factory (o Abstract Factory) para construir los objetos de tipo bus, y el patrón Builder para gestionar la creación de tiquetes y clientes de manera dinámica.
+
+---
+
+### Tecnologías utilizadas
+- Java 21
+- JavaFX
+- Maven
+
+---
+
+Universidad del Quindío 💚 - Ingeniería de sistemas y computación - 2024-2
